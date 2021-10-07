@@ -73,6 +73,9 @@ public class WebMvcConfig implements WebMvcConfigurer {
          * Front-end에서 참조하는 URL을 /dist로 매핑
          *
          */
+
+        registry.addResourceHandler("/public/**")
+                .addResourceLocations("classpath:/dist/");
         registry.addResourceHandler("/css/**")
                 .addResourceLocations("classpath:/dist/css/");
         registry.addResourceHandler("/fonts/**")
