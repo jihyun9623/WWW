@@ -3,7 +3,7 @@
     "background_color": "#f9fefb",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "https://j5a605.p.ssafy.io",
     "name": "www",
     "short_name": "www",
     "icons": [
