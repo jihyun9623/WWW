@@ -2,6 +2,7 @@
     "theme_color": "#58e4b4",
     "background_color": "#f9fefb",
     "display": "standalone",
+    "homepage": "https://j5a605.p.ssafy.io",
     "scope": "/",
     "start_url": "/",
     "name": "www",
